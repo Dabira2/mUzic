@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(../public/IMG/netflix pic.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+h1{
+  color: white;
+  margin-top: -15px;
+  margin-left: 250px;
+}
+h3{
+  color: white;
+  margin-top: 10px;
+  margin-left: 300px;
+}
+.btn{
+  background-color: rgb(228, 8, 8);
+  width: 180px;
+  height: 45px;
+  font-size: larger;
+  border-radius: 20px;
+  margin-left: 320px;
+}
+.hh{
+  font-style: italic;
+  color: whitesmoke;
+  font-size: 40px;
+  margin-top: 80px
+}

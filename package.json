@@ -1,0 +1,18 @@
+{
+  "name": "muzic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "data": "^0.6.1",
+    "dom": "^0.0.3",
+    "react-router": "^6.26.0",
+    "react-router-dom": "^6.26.0",
+    "router": "^1.3.8"
+  }
+}
